@@ -25,9 +25,9 @@
 ## Ferramentas:
 
 
-<img align="center" alt="Canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-<img align="center" alt="Excel" height="50" width="50" src="https://img.icons8.com/color/96/microsoft-excel-2019.png" />
-<img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="Canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+<img align="left" alt="Excel" height="50" width="50" src="https://img.icons8.com/color/96/microsoft-excel-2019.png" />
+<img align="left" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   
 ## Projetos:
 - **Cofre seguro não funcional(CRUD):**
