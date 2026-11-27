@@ -37,8 +37,9 @@
   
 ## Projetos:
 - **Cofre seguro não funcional(CRUD):**
+https://github.com/tarcizoneto/cofreseguro-g2
 - Projeto de Poste inteligente(LumixVia)
-- 
+ 
   
   
   
