@@ -24,6 +24,8 @@
   
 ## Projetos:
 - **Cofre seguro não funcional(CRUD):**
+- Projeto de Poste inteligente(LumixVia)
+- 
   
   
   
