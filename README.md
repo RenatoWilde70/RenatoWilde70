@@ -1,7 +1,8 @@
 # Rennan Amaral perfil👋
 
-<p align="center">
-  <img src="./video-github.gif" width="350">
+
+<p align="left">
+  <img src="./video-github.gif" width="200">
 </p>
 
 ## Sobre mim:
