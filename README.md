@@ -1,5 +1,8 @@
 # Rennan Amaral perfil👋
 
+<p align="center">
+  <img src="./video-github.gif" width="350">
+</p>
 
 ## Sobre mim:
 - Estudante de Ciências da Computação
