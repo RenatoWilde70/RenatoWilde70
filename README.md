@@ -9,13 +9,15 @@
 - Estudante de Ciências da Computação
 - Desenvolvendo jogos por Hobbie
 - Interessado em tudo que envolve tecnologias e suas ciências
-- 
+
 ## Interesses Profissionais:
+- Programação
 - Cybersegurança
 - Pentest
 - Hacking Ético
+- Desenvolvimento de jogos
 - Controle e automação
-
+- Mecatronica e Construção de eletrônicos
 ## Linguagens:
 
 <p align="left">
@@ -39,6 +41,7 @@
 - **Cofre seguro não funcional(CRUD):**
 https://github.com/tarcizoneto/cofreseguro-g2
 - Projeto de Poste inteligente(LumixVia)
+  
  
   
   
